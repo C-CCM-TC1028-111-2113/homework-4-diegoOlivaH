@@ -6,10 +6,10 @@ def main():
     v = 1
     s = int()
     while s<=n:
-     v = v + 1
-     s = v**2
-     if s>n:
-        print(v)
+        v = v + 1
+        s = v**2
+        if s>n:
+            print(v)
 
     pass
 
